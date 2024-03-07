@@ -1,0 +1,4 @@
+version: 3
+project:
+  id: git@github.com:caprarodorner/fossa-cli/docke-/example-project-no-really-existing.git
+  name: "Example Project (for testing FOSSA CLI for Docker)"
